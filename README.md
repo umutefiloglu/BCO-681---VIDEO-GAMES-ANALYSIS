@@ -5,5 +5,4 @@
   - There are more than 30.000 words (including headers, captions etc.). Therefore, it is a huge work for me to translate all of them into English.
 
 - My most detailed work is [Ghostbuster's Game Analysis]()
-
 - Contact: https://www.linkedin.com/in/umutefiloglu/
